@@ -6,3 +6,7 @@
 twitter : @undefineswap
 Insta :  @redefineswapnil921
 https://in.linkedin.com/in/%EF%A3%BF-swapnil-gwalherkar-13169b41?trk=profile-badge
+
+
+Writing a Blog on MVVVM 😅
+https://redefineswapnil.blogspot.com/
