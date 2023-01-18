@@ -2,6 +2,9 @@
 - 👀 I’m interested in iOS Mobile Developement..
 
 Experienced in Swift, Objective C, MVVM,  SwiftUI.
+
+
+
 Expertise in design pattern , software design principles(SOLID) and webservices integration, transactional and asynchronous patterns.
 Follows TDD and functional approach of development.
 
