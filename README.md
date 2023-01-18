@@ -20,14 +20,13 @@ Exposure in
 
 Proficient experience of working in  AGILE model.
 Ability to work in teams and proficient in handling high pressure situations.
+
+
+
+😇😊😊😊
 - 🌱 I’m currently learning  SWIFTUI, CoreData And GCD 
 
 
-
-
-
-
-😇😊😊😊😊😊😊😊😊😊
 - 💞️ 2022 Goals: Learn more about Swift, iOS, LiveStreaming, Socket IO Deeply,
 - 📫 How to reach me ...
 twitter : @undefineswap
