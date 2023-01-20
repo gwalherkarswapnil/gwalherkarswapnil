@@ -27,8 +27,8 @@ Ability to work in teams and proficient in handling high pressure situations.
 - 🌱 I’m currently learning  SWIFTUI, CoreData And GCD 
 
 
-- 💞️ 2022 Goals: Learn more about Swift, iOS, LiveStreaming, Socket IO Deeply,
-- 📫 How to reach me ...
+-  2022 Goals: Learn more about Swift, iOS, LiveStreaming, Socket IO Deeply,
+- 📷 How to reach me ...
 twitter : @undefineswap
 Insta :  @redefineswapnil921
 https://in.linkedin.com/in/%EF%A3%BF-swapnil-gwalherkar-13169b41?trk=profile-badge
