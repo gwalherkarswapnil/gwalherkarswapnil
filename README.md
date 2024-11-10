@@ -3,7 +3,7 @@
 
 Experienced in Swift, Objective C, MVVM,  SwiftUI.
 
-Please into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker
+Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker
 With features like 
 
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
