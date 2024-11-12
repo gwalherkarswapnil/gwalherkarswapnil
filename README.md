@@ -1,5 +1,4 @@
 - 👋 Hey, I’m Swapnil Gwalherkar
-- 👀 I’m interested in iOS Mobile Developement..
 
 Experienced in Swift, Objective C, MVVM,  SwiftUI.
 
