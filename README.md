@@ -10,9 +10,9 @@ App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based
 I am actively seeking a new role as a Senior iOS Developer where I can contribute my skills to impactful projects and grow professionally.
 
 Quick Highlights
+
 ✅ Total Experience: 6 years, 8 months in iOS development
 ✅ Core Skills:
-
 Languages & Frameworks: Swift (6.8 years), Objective-C (2+ years), SwiftUI (6-8 months)
 Tools & Technologies: AWS Amplify, Cognito, S3, Realm Database, Core Data
 ✅ Design Patterns & Architecture: MVVM, Clean Architecture
