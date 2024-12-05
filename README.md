@@ -16,6 +16,9 @@ Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapn
  I am working on a App with these Features
 </b> 
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
+
+
+
 <img width="50" alt="Screenshot 2024-12-05 at 4 21 41 PM" src="https://github.com/user-attachments/assets/c639840b-1fa6-47ae-899c-1962343662fc">
 
 
