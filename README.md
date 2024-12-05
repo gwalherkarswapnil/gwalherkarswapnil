@@ -10,6 +10,10 @@ Experienced in Swift, Objective C, MVVM,  SwiftUI.
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker
 With features like 
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker_React
+
+App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
+
+
 With features like 
 🗣 I've mentored some iOS developers and
  Actively contributed to the Stack Overflow developer community. I have profile
@@ -20,7 +24,7 @@ https://drive.google.com/file/d/1TU_S3g10iHTg6JjsDfRm5uYBahB_gF4R/
 
 https://bold.pro/my/swapnilgwalherkar-241125190933
 
-App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
+
 
 I am actively seeking a new role as a Senior iOS Developer where I can contribute my skills to impactful projects and grow professionally.
 
