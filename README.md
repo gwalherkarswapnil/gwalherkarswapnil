@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Swapnil Gwalherkar
 
-Experienced in Swift, Objective C, MVVM,  SwiftUI.
+**Experienced in Swift, Objective C, MVVM, SwiftUI.**
 
 [![](https://visitcount.itsvg.in/api?id=gwalherkarswapnil&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
@@ -10,7 +10,7 @@ Experienced in Swift, Objective C, MVVM,  SwiftUI.
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker
 With features like 
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker_React
-
+**App has these cool Features**  
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
 
 
