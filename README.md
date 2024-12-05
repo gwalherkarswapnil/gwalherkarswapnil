@@ -11,18 +11,19 @@ Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapn
 With features like 
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker_React
 
+<img width="50" alt="Screenshot 2024-12-05 at 4 21 41 PM" src="https://github.com/user-attachments/assets/c639840b-1fa6-47ae-899c-1962343662fc">
+
+
+
+
+
+
 ##
  <b style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #000000;">
  I am working on a App with these Features
 </b> 
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
-
-
-
-<img width="50" alt="Screenshot 2024-12-05 at 4 21 41 PM" src="https://github.com/user-attachments/assets/c639840b-1fa6-47ae-899c-1962343662fc">
-
-
-With features like 
+**With features like** 
 🗣 I've mentored some iOS developers and
  Actively contributed to the Stack Overflow developer community. I have profile
  https://stackoverflow.com/users/8618835/swapnil-gwalherkar
