@@ -9,7 +9,6 @@ Experienced in Swift, Objective C, MVVM,  SwiftUI.
 
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker
 With features like 
-
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker_React
 With features like 
 🗣 I've mentored some iOS developers and
