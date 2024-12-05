@@ -11,9 +11,9 @@ Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapn
 With features like 
 Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapnil/ExpenseTracker_React
 
-
-<b style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #000000;">
- ##App has these cool Features.
+##
+ <b style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #000000;">
+ App has these cool Features.
 </b> 
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
 
