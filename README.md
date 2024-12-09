@@ -20,19 +20,22 @@ Please look into My latest App ExpenseTracker https://github.com/gwalherkarswapn
 
 ##
  <b style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #000000;">
- I am working on a App with these Features
+ I am working on a App **With features like** 
 </b> 
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
-**With features like** 
+
+
+
 🗣 I've mentored some iOS developers and
- Actively contributed to the Stack Overflow developer community. I have profile
+ 
+ 🥞💰Actively contributed to the Stack Overflow developer community. I have profile
  https://stackoverflow.com/users/8618835/swapnil-gwalherkar
+
 
 ✅ MY Profile as a virtual Resume : 
 https://drive.google.com/file/d/1TU_S3g10iHTg6JjsDfRm5uYBahB_gF4R/
 
 https://bold.pro/my/swapnilgwalherkar-241125190933
-
 
 
 I am actively seeking a new role as a Senior iOS Developer where I can contribute my skills to impactful projects and grow professionally.
