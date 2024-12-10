@@ -1,6 +1,16 @@
 - 👋 Hey, I’m Swapnil Gwalherkar
 
 **#Experienced in Swift, Objective C, MVVM, SwiftUI.**
+🛠️ Technologies and Tools
+
+💻 Languages: SWIFT, OBJECTIVE C, SWIFTUI, Javascript       
+🧰 Frameworks and Libraries:     
+☁️ Cloud Platforms: 
+
+https://camo.githubusercontent.com/848cd9241e9fbff152cd301f8d2743ea66e1aae081b2f0d21bb62e93df9964fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=gwalherkarswapnil&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
