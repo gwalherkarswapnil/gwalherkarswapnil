@@ -5,7 +5,6 @@
 
 💻 Languages: SWIFT, OBJECTIVE C, SWIFTUI, Javascript       
 ☁️ Cloud Platforms: AWS, Google Cloud(ie Firebase)
-New Blog 🔥🔥🔥🔥🔥 ------>>> 🔥 
 
 **My experience of iOS Interviews: Challenges, Insights, and Key Takeaways**
 https://medium.com/@gwalherkarswapnil/navigating-the-ios-interview-insights-challenges-and-takeaways-f2910cf6e170
