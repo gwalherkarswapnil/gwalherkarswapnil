@@ -12,8 +12,7 @@ https://medium.com/@gwalherkarswapnil/navigating-the-ios-interview-insights-chal
 
 
 
-[![](https://visitcount.itsvg.in/api?id=gwalherkarswapnil&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
+![Profile Views](https://visitcount.itsvg.in/api?id=gwalherkarswapnil&label=Profile%20Views&color=0&icon=0&pretty=true)
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwalherkarswapnil)](https://github.com/gwalherkarswapnil/github-readme-stats)
 
 Please look into My latest App ExpenseTracker 
