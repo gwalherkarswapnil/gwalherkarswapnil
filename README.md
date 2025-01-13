@@ -12,7 +12,6 @@ https://medium.com/@gwalherkarswapnil/navigating-the-ios-interview-insights-chal
 
 
 
-![Profile Views](https://visitcount.itsvg.in/api?id=gwalherkarswapnil&label=Profile%20Views&color=0&icon=0&pretty=true)
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwalherkarswapnil)](https://github.com/gwalherkarswapnil/github-readme-stats)
 
 Please look into My latest App ExpenseTracker 
@@ -32,7 +31,7 @@ https://github.com/gwalherkarswapnil/ExpenseTracker_React
 
 ##
  <b style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #000000;">
- I am working on a App **With features like** 
+ I am working on a App With features like
 </b> 
 App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based OTP, and authenticator app integration. Expense Management: Add expenses with attributes (title, amount, type), bulk upload via bill/receipt scanning, edit, and delete expenses. Tracking & Analytics: Track recurring expenses
 
