@@ -46,7 +46,7 @@ App Authentication: Login/Signup with Google, Facebook, Apple, OpenID, SMS-based
 https://leetcode.com/u/gwalherkarswapnil/
 
 ✅ MY Profile as a virtual Resume : 
-https://drive.google.com/file/d/1TU_S3g10iHTg6JjsDfRm5uYBahB_gF4R/
+[https://drive.google.com/file/d/1TU_S3g10iHTg6JjsDfRm5uYBahB_gF4R/](https://docs.google.com/document/d/1M1Y0dJGxDbWvehCRTH7ajrhQJQUEbGH51XMOYuab3i0/edit?tab=t.0#heading=h.plv2ws4b79s0)
 
 https://bold.pro/my/swapnilgwalherkar-241125190933
 
