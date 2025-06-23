@@ -22,6 +22,7 @@ With features like
 Please look into My latest App ExpenseTracker 
 
 https://github.com/gwalherkarswapnil/ExpenseTracker_React
+<img width="291" alt="Screenshot 2025-06-23 at 7 18 20 PM" src="https://github.com/user-attachments/assets/5ec4191d-dd03-43d7-90a3-d6ded0962380" />
 
 <img width="80" alt="Screenshot 2024-12-05 at 4 21 41 PM" src="https://github.com/user-attachments/assets/c639840b-1fa6-47ae-899c-1962343662fc">
 
